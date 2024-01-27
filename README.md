@@ -19,4 +19,4 @@ Y alguna más...
 
 ## Encuéntrame en:
 [![Instagram](https://img.shields.io/badge/Instagram-@tobi.bordino-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/tobi.bordino)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tobías-Bordino-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/tobordino)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tobías_Bordino-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/tobordino)

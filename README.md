@@ -1,8 +1,9 @@
 # Hola, mi nombre es Tobías Bordino 👋
 
-### Analista de Sistemas de Información - Estudiante avanzado de Ingenería en Sistemas de Información en Universidad Tecnológica Nacional, Facultad Regional Córdoba.
+### Analista de Sistemas de Información - Estudiante avanzado de Ingenería en Sistemas de Información en UTN-FRC.
 
 Soy Analista de Sistemas de Información, actualemente me encuentro cursando 4° año de Ingenería en Sistemas de Información en la Universidad Tecnológica Nacional, Facultad Regional Córdoba.
+
 Tengo experiencia en desarrollo de aplicaciones web. Aspiro a desarrollar constantemente mis habilidades y crecer profesionalmente. Confío en mi capacidad para resolver problemas y trabajar en equipo.
 
 ## Tecnologías:

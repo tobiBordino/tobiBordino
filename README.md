@@ -1,10 +1,8 @@
-# Hola, mi nombre es Tobías Bordino 👋
+Hi! My name is Tobías. I am an Information Systems Engineer currently working as a Cybersecurity Analyst, specializing in securing, optimizing, and maintaining reliable technology environments.
 
-### Analista de Sistemas de Información - Estudiante avanzado de Ingenería en Sistemas de Información en UTN-FRC.
+My experience includes software development, infrastructure and process automation, and the implementation of security controls across system lifecycles. I work with security best practices, vulnerability management, and performance optimization to improve operational efficiency while reducing technical and security risks.
 
-Soy Analista de Sistemas de Información, actualemente me encuentro cursando 4° año de Ingenería en Sistemas de Información en la Universidad Tecnológica Nacional, Facultad Regional Córdoba.
-
-Tengo experiencia en desarrollo de aplicaciones web. Aspiro a desarrollar constantemente mis habilidades y crecer profesionalmente. Confío en mi capacidad para resolver problemas y trabajar en equipo.
+I am particularly interested in automation, DevSecOps practices, and building secure and scalable solutions that integrate seamlessly into modern development and operational workflows. I enjoy tackling complex technical challenges, continuously learning new technologies, and collaborating with teams to strengthen security posture and system resilience.
 
 ## Tecnologías:
 [![React](https://img.shields.io/badge/React-yellow?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
@@ -15,7 +13,7 @@ Tengo experiencia en desarrollo de aplicaciones web. Aspiro a desarrollar consta
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 </br>
-Y alguna más...
+Y muchas más...
 
 ## Encuéntrame en:
 [![Instagram](https://img.shields.io/badge/Instagram-@tobi.bordino-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/tobi.bordino)
